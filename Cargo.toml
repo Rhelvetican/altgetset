@@ -2,7 +2,7 @@
     authors     = ["Rhelvetican"]
     description = "An alternative getters/setters proc-macro library."
     edition     = "2021"
-    license     = "MIT OR BSD-4"
+    license     = "MIT OR AFL-3.0"
     name        = "altgetset"
     version     = "0.1.0"
 
