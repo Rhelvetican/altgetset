@@ -57,10 +57,6 @@ impl Mode {
             _ => "",
         }
     }
-
-    pub(crate) fn is_get(&self) -> bool {
-        !matches!(self, Mode::Set)
-    }
 }
 
 pub(crate) fn produce(ast: &DeriveInput, params: &Params) -> TokStr2 {

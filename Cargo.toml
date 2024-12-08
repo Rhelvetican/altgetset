@@ -1,7 +1,10 @@
 [package]
-    edition = "2021"
-    name    = "altgetset"
-    version = "0.1.0"
+    authors     = ["Rhelvetican"]
+    description = "An alternative getters/setters proc-macro library."
+    edition     = "2021"
+    license     = "MIT OR BSD-4"
+    name        = "altgetset"
+    version     = "0.1.0"
 
 [lib]
     proc-macro = true
