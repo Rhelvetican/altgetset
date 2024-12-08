@@ -1,10 +1,13 @@
 [package]
-    authors     = ["Rhelvetican"]
-    description = "An alternative getters/setters proc-macro library."
-    edition     = "2021"
-    license     = "MIT OR AFL-3.0 OR LGPL-3.0-or-later"
-    name        = "altgetset"
-    version     = "0.1.0"
+    authors       = ["Rhelvetican"]
+    description   = "An alternative getters/setters proc-macro library."
+    documentation = "https://docs.rs/altgetset"
+    edition       = "2021"
+    homepage      = "https://github.com/Rhelvetican/altgetset"
+    license       = "MIT OR AFL-3.0 OR LGPL-3.0-or-later"
+    name          = "altgetset"
+    repository    = "https://github.com/Rhelvetican/altgetset"
+    version       = "0.1.1"
 
 [lib]
     proc-macro = true
