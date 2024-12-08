@@ -1,5 +1,7 @@
 # altgetset
 
+![banner](./assets/banner.png)
+
 An alternative library to [`getset`](https://crates.io/crates/getset).
 
 This library provide procedural macros to write getters and setters for struct fields.
